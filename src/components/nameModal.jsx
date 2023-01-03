@@ -40,7 +40,7 @@ export default function NameModal({ showModal, setShowModal, name, setName }) {
               }}
               onClick={() => setShowModal(false)}
             >
-              ADD Name
+              ADD Na
             </Button>
           </div>
         </Modal.Body>
